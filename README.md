@@ -43,7 +43,7 @@ and then create the environment with
 ```
 $ mamba env create -n cedalion -f environment_dev.yml
 ```
-Please note: If this does not socceed there is another route to go:
+Please note: If this does not succeed there is another route to go:
 Install the libmamba solver
 '''
 $ conda install -n base conda-libmamba-solver
